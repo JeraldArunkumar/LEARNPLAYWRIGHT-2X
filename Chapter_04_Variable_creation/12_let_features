@@ -1,0 +1,13 @@
+let retrycount=0;
+retrycount=retrycount+1 // valid: reassignment allowed with let
+retrycount=retrycount+1
+console.log("Retry count: ", retrycount); // Output: Retry count: 1
+
+//let retrycount=10; // invalid: redeclaration not allowed with let
+
+let status = "pending"; // valid
+if (status === "pending") {
+    let executionTime = "5 seconds"; // valid: block-scoped variable
+    console.log("Execution time: ", executionTime); // Output: Execution time: 5 seconds
+}
+console.log("executionTime: ", executionTime); // invalid: executionTime is not accessible outside the block    & will show refrence error

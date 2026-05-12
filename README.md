@@ -11,6 +11,8 @@ This repository contains JavaScript learning examples focused on Playwright and 
 - `Chapter_03_Identifier_Literals/`
   - Identifier literal examples and related JavaScript syntax
   - `vscode_keyboard_shortcuts.md` — VS Code shortcut reference
+- `Chapter_04_Variable_creation/`
+  - Variable declaration examples (var, let, const), scoping, and hoisting concepts
 
 ## Notes
 
