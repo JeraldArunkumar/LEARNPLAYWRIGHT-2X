@@ -13,6 +13,16 @@ This repository contains JavaScript learning examples focused on Playwright and 
   - `vscode_keyboard_shortcuts.md` — VS Code shortcut reference
 - `Chapter_04_Variable_creation/`
   - Variable declaration examples (var, let, const), scoping, and hoisting concepts
+- `Chapter_05_Literals/`
+  - JavaScript literal examples, numeric values, strings, and template literals
+- `Chapter_06_Operator/`
+  - Operator examples, arithmetic, comparison, logical, ternary, and assignment operators
+- `Chapter_07_If_else/`
+  - Conditional statements, if/else, else-if, and real-world decision-making examples
+- `Chapter_08_Switch_statement/`
+  - Switch-case statement examples and default branch handling
+- `Chapter_09_UserInput/`
+  - User input examples, readline, and prompt-sync usage with Node.js
 
 ## Notes
 
