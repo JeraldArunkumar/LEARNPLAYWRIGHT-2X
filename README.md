@@ -23,6 +23,8 @@ This repository contains JavaScript learning examples focused on Playwright and 
   - Switch-case statement examples and default branch handling
 - `Chapter_09_UserInput/`
   - User input examples, readline, and prompt-sync usage with Node.js
+- `Chapter_10_Loops/`
+  - Loop examples including for, while, do/while, and loop practice problems
 
 ## Notes
 
