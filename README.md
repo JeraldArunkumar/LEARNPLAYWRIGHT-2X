@@ -25,6 +25,10 @@ This repository contains JavaScript learning examples focused on Playwright and 
   - User input examples, readline, and prompt-sync usage with Node.js
 - `Chapter_10_Loops/`
   - Loop examples including for, while, do/while, and loop practice problems
+- `Chapter_11_Array/`
+  - Array examples including sorting, slicing, concatenation, and array checking methods
+- `Chapter_12_Functions/`
+  - Function examples and concepts
 
 ## Notes
 
