@@ -28,7 +28,9 @@ This repository contains JavaScript learning examples focused on Playwright and 
 - `Chapter_11_Array/`
   - Array examples including sorting, slicing, concatenation, and array checking methods
 - `Chapter_12_Functions/`
-  - Function examples and concepts
+  - Function expressions, arrow functions, IIFE, default and rest parameters
+  - Scope, closures, higher-order functions, and pure functions
+  - Spread operator and practical function examples
 
 ## Notes
 
