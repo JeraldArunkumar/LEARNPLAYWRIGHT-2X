@@ -31,6 +31,9 @@ This repository contains JavaScript learning examples focused on Playwright and 
   - Function expressions, arrow functions, IIFE, default and rest parameters
   - Scope, closures, higher-order functions, and pure functions
   - Spread operator and practical function examples
+- `Chapter_13_String/`
+  - String methods, template literals, and string manipulation techniques
+  - Common string operations and practical examples
 
 ## Notes
 
