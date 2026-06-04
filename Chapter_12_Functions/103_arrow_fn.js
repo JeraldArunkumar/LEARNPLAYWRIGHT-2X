@@ -25,3 +25,24 @@ const printIt=name=>console.log(name)
 
 printIt('Jerald Arunkumar')
 
+
+//Normal function
+function Greet()
+{
+    console.log('Hi everyone')
+}
+
+
+// another way of converting function to arrow function
+const Greet1=()=>console.log('Hi everyone')
+
+//another way
+
+const Greet2=()=>'Hi everyone'
+
+//when we write more than one line of code in arrow function we need to use curly braces and return keyword
+const Greet3=(name)=>{
+    let greetMsg='Hi ' + name
+    return greetMsg
+}
+

@@ -1,0 +1,21 @@
+//Higher order  function
+// A higher-order function is a function that takes another function as an argument or returns a function as its result. In JavaScript, functions are first-class citizens, which means they can be treated like any other value (e.g., assigned to variables, passed as arguments, returned from other functions).
+
+// Example of a higher-order function that takes another function as an argument
+
+function higherOrderFunction(testfn,testname){
+    console.log(`Running test: ${testname}`);
+ let result=testfn()
+ console.log(`Result of the test: ${result}`);
+ return result;
+    
+ function logintest(){
+    return "Login successful";
+
+ }
+ function signuptest(){
+    return "Signup successful";
+ }  
+ higherOrderFunction(logintest,"Login Test");
+ higherOrderFunction(signuptest,"Signup Test"); 
+}
