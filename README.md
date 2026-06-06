@@ -34,6 +34,10 @@ This repository contains JavaScript learning examples focused on Playwright and 
 - `Chapter_13_String/`
   - String methods, template literals, and string manipulation techniques
   - Common string operations and practical examples
+- `Chapter_14_Objects/`
+  - Object creation, references, destructuring, getters/setters, and real-world object examples
+- `Tasks/`
+  - Practice tasks and exercises for reviewing JavaScript concepts
 
 ## Notes
 
